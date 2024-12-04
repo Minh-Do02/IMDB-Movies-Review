@@ -4,7 +4,7 @@
 
 ## Présentation
 
-Ce projet a pour objectif de [Insérez ici une brève description de l'objectif principal du projet, par exemple : "analyser les sentiments exprimés dans les critiques de films sur IMDB afin de prédire la note attribuée à un film"].
+Ce projet a pour objectif de analyser les sentiments exprimés dans les critiques de films sur IMDB afin de prédire la note attribuée à un film.
 
 ## Structure du projet
 
